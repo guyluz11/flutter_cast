@@ -29,10 +29,10 @@ packages:
     dependency: "direct main"
     description:
       name: http
-      sha256: d4872660c46d929f6b8a9ef4e7a7eff7e49bbf0c4ec3f385ee32df5119175139
+      sha256: fe7ab022b76f3034adc518fb6ea04a82387620e19977665ea18d30a1cf43442f
       url: "https://pub.dev"
     source: hosted
-    version: "1.1.2"
+    version: "1.3.0"
   http_parser:
     dependency: transitive
     description:
@@ -53,10 +53,10 @@ packages:
     dependency: "direct main"
     description:
       name: multicast_dns
-      sha256: "316cc47a958d4bd3c67bd238fe8b44fdfb6133bad89cb191c0c3bd3edb14e296"
+      sha256: de72ada5c3db6fdd6ad4ae99452fe05fb403c4bb37c67ceb255ddd37d2b5b1eb
       url: "https://pub.dev"
     source: hosted
-    version: "0.3.2+6"
+    version: "0.3.3"
   path:
     dependency: transitive
     description:
@@ -77,18 +77,18 @@ packages:
     dependency: "direct main"
     description:
       name: protobuf
-      sha256: "68645b24e0716782e58948f8467fd42a880f255096a821f9e7d0ec625b00c84d"
+      sha256: fbb0c37d435641d0b84813c1dad41e6fa61ddc880a320bce16b3063ecec35aa6
       url: "https://pub.dev"
     source: hosted
-    version: "3.1.0"
+    version: "4.0.0"
   protoc_plugin:
     dependency: "direct dev"
     description:
       name: protoc_plugin
-      sha256: fb0554851c9eca30bd18405fbbfe81e39166d4a2f0e5b770606fd69da3da0b2f
+      sha256: cdec62ff876e61f4421aa7c87373c91db9b1430c748b38fb6d23613356064375
       url: "https://pub.dev"
     source: hosted
-    version: "21.1.2"
+    version: "22.0.1"
   source_span:
     dependency: transitive
     description:
@@ -125,9 +125,9 @@ packages:
     dependency: transitive
     description:
       name: web
-      sha256: edc8a9573dd8c5a83a183dae1af2b6fd4131377404706ca4e5420474784906fa
+      sha256: "868d88a33d8a87b18ffc05f9f030ba328ffefba92d6c127917a2ba740f9cfe4a"
       url: "https://pub.dev"
     source: hosted
-    version: "0.4.0"
+    version: "1.1.1"
 sdks:
-  dart: ">=3.2.0 <4.0.0"
+  dart: ">=3.4.0 <4.0.0"
